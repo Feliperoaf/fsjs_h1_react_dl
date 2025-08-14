@@ -17,4 +17,4 @@ El objetivo es construir una aplicación en React que muestre:
 ---
 
 ## 📸 Vista previa
-![Vista previa del proyecto](./public/preview.png)
+![Vista previa del proyecto](./public/preview.jpeg)
